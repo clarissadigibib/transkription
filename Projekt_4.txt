@@ -5,7 +5,7 @@
 Deutsche Staatsbibliothek zu Berlin, Preußischer Kulturbesitz
 
 #### Förderer:
-Gefördert wird das Projekt von der Deutsche Forschungsgemeinschaft (DFG).
+Deutsche Forschungsgemeinschaft (DFG)
 
 #### Laufzeit:
 Seit 2011
@@ -21,14 +21,15 @@ Der Kernbestand dieser Autographensammlung soll der vom 17. bis zum mittleren 19
 Dr. Martina Rebmann
 
 #### MitarbeiterInnen:
-Wolfgang Eckhardt M.A./M.A. (LIS)
-Julia Neumann M.A./M.A. (LIS)
+Wolfgang Eckhardt
+Julia Neumann
 Dr. Tobias Schwinger
-Alexander Staub M.A.
+Alexander Staub
 
 #### Einschätzung des Erfolgs:
-Durch die Größe dieses Bestandssegments kann die digitale Dokumentation von Schreiberhänden und Wasserzeichen flächendeckend durchgeführt werden. Daraus resultieren Querbeziehungen innerhalb dieses Bestands. Außerdem werden dadurch wichtige Aufschlüsse für die chronologische Einordnung und geografische Verortung der Werke gegeben. Sie beschreiben selber, dass durch das Projekt neue Wege der Tiefenerschließung von Musikhandschriften entstehen werden.
-Positiv ist auch, dass die Recherche über den RISM-OPAC möglich ist. Die Suche über den OPAC ist sehr detailgetreu um eine feine Recherche zu ermöglichen. Den Treffer kann man sich auch speichern oder auch per E-Mail versenden.
+Durch die Größe dieses Bestandssegments kann die digitale Dokumentation von Schreiberhänden und Wasserzeichen flächendeckend durchgeführt werden. Daraus resultieren Querbeziehungen innerhalb dieses Bestands. Außerdem werden dadurch wichtige Aufschlüsse für die chronologische Einordnung und geografische Verortung der Werke gegeben.
+Sie beschreiben selber, dass durch das Projekt neue Wege der Tiefenerschließung von Musikhandschriften entstehen werden.
+Die Suche über den RISM-OPAC ist sehr detailgetreu um eine feine Recherche zu ermöglichen. Den Treffer kann man sich auch speichern oder auch per E-Mail versenden.
 Außerdem zeigt dieses Projekt, dass nicht nur Handschriften, sondern auch Musikquellen digitalisiert und erschlossen werden können.
 
 #### URL:
