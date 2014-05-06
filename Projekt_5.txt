@@ -29,5 +29,4 @@ Die mittelalterlichen Handschriften der Signaturengruppe B in der Universitäts-
 Die Handschriften werden zwar digitalisiert, aber es erfolgt keine vollständige Transkription. 
 Positiv ist allerdings, dass man einen RSS-Feed abonnieren kann, genauso das eine OAI-Schnittstelle geschaffen wurde.
 
-#### URL:
 Beispiel: http://www.ulb.hhu.de/die-ulb/projekte/katalogisierung-der-mittelalterlichen-handschriften.html
