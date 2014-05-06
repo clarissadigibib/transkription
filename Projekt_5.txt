@@ -1,0 +1,34 @@
+#### Projekt:
+Katalogisierung der mittelalterlichen Handschriften
+
+#### Herausgeber:
+Universitäts- und Landesbibliothek (ULB) Düsseldorf 
+
+#### Förderer:
+Gefördert wird das Projekt von der Deutsche Forschungsgemeinschaft (DFG).
+
+#### Laufzeit:
+01.10.2011 – 30.06-2015
+
+#### Projektbeschreibung:
+Da die Handschriften der ULB Düsseldorf eine der bedeutendsten Sammlungen des Landes Nordrhein-Westfalens bilden. Die Handschriften, die aus 22 rheinischen und westfälischen Klöstern, Stiften und Konventen stammen, sollen in diesem Projektabschnitt erschlossen werden. 
+Die Tiefenerschließung erfolgt nach den „Richtlinien Handschriftenkatalogisierung“ der DFG. Im aktuellen Projektabschnitt werden die Handschriften der Signaturengruppen A, D, E, F, G, N und P erschlossen.
+
+#### Umfang:
+400 Exemplare vom 9. bis 16. Jahrhundert.
+
+#### Projektleitung:
+Dr. Irmgard Siebert
+
+#### MitarbeiterInnen:
+Dr. Monika Müller
+Katrin Wenig
+
+#### Einschätzung des Erfolgs:
+In dem seit 1998 abgeschlossenen Projektabschnitten entstanden:
+Die mittelalterlichen Handschriften der Signaturengruppe B in der Universitäts- und Landesbibliothek Düsseldorf. Teil 1. Ms. B 1 bis B 100 und Teil 2. Ms. B 101a bis B 214, sowie Signaturengruppe C.
+Die Handschriften werden zwar digitalisiert, aber es erfolgt keine vollständige Transkription. 
+Positiv ist allerdings, dass man einen RSS-Feed abonnieren kann, genauso das eine OAI-Schnittstelle geschaffen wurde.
+
+#### URL:
+Beispiel: http://www.ulb.hhu.de/die-ulb/projekte/katalogisierung-der-mittelalterlichen-handschriften.html
