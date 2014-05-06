@@ -1,0 +1,29 @@
+#### Projekt:
+Wikisource
+
+#### Herausgeber:
+Wikisource wird von der Wikimedia Foundation betrieben, die für verschiedene weitere mehrsprachige und freie Projekte verantwortlich ist.
+
+#### Laufzeit:
+seit 2003
+
+#### Projektbeschreibung: 
+Wikisource ist ein freies Online-Projekt zur Sammlung und Edition von Texten. Diese sind entweder urheberrechtsfrei oder stehen unter einer freien Lizenz. Wikisource ist ebenso wie Wikipedia mehrsprachig.
+Bereist veröffentlichte, aber auch unveröffentlichte Texte werden digitalisiert und transkribiert. Dies erfolgt mittels OCR oder manuellen Abtippen. Allerdings lesen die Mitarbeiter noch Korrektur. Ähnlich wie bei Wikipedia ist es möglich, dass Leser die Texte kontrollieren können.
+Wikisource ist nach meiner Einschätzung als Gesamtprojekt zu verstehen, mit vielen Kleinprojekten. Zu den Themen gehören u. a. lokalgeschichtliche Themen, Transkriptionen von Gedichten und Märchen, aber auch ganzen Romanen und Nachschlagewerke.
+Seit August 2009 werden die Volltexte aus Wikisource im Katalog der Universitäts- und Stadtbibliothek Köln nachgewiesen.
+
+#### Umfang:
+Die deutsche Wikisource hat mittlerweile 31.315 Werke in ihrem Bestand.
+
+#### Lizenzen:
+GNU-Lizenz für freie Dokumentation und Creative-Commons-Lizenzen (CC-BY bzw. CC-BY-SA).
+
+#### Einschätzung des Erfolgs:
+
+Im Vergleich zu den anderen Transkriptions-Projekten hat Wikisource den Vorteil parallel an verschiedenen Projekten zu arbeiten und diverse Themenbereichen anbieten zu können. Durch dieses Projekt wird die Zitierfähigkeit der Texte mehr gewährleistet.
+Wikisource profitiert natürlich auch von dem Schwersternprojekt Wikipedia und hat dadurch einen höheren Bekanntheitsgrad als bspw. das DTA. Als weiteren Vorteil ist auch anzuerkennen, dass externe ihr eigenes Transkriptions-Projekt starten können.
+
+#### URL: als Beispiel verwenden
+http://de.wikisource.org/wiki/Hauptseite
+https://www.ub.uni-koeln.de/bibliotheken/bibliotheksfuehrer/ressourcen/etextewikide/index_ger.html
