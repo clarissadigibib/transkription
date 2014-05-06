@@ -1,0 +1,42 @@
+#### Projekt:
+Deutsches Textarchiv (DTA)
+
+#### Herausgeber:
+Das Forschungsprojekt DTA ist Teil des „Zentrums Sprache" der Berlin-Brandenburgischen Akademie der Wissenschaften. 
+
+#### Förderer:
+Gefördert wird das Projekt von der Deutsche Forschungsgemeinschaft (DFG).
+
+#### Laufzeit:
+2007 – 2013 / 2014
+
+#### Projektbeschreibung:
+Der disziplinübergreifende Kernbestand des DTA erstreckt sich über deutschsprachige Texte des 17. bis 19. Jahrhunderts. Diese Texte werden digitalisiert und so aufbereitet, dass diese über das Internet in vielfältiger Weise nutzbar sind.
+Genauer ist beschrieben, dass das DTA in größtmöglicher Breite das widerspiegeln soll, was seit dem Barock an bedeutenden Werken in deutscher Sprache veröffentlicht worden ist. Dazu gehören Werke aus der Wissenschaft, der Belletristik und der Gebrauchsliteratur.
+Das DTA stellt sowohl die Volltexte, als auch die dazugehörigen Bildvorlagen zu Verfügung.
+
+#### Methoden:
+Die Texte werden größtenteils manuell durch das Double Keying-Verfahren erfasst. Denn sie beschreiben selber, dass es meist zuverlässiger ist als Optical Character Recognition (OCR).
+Das Basisformat folgt den P5-Richtlinien der Text Encoding Initiative (TEI).
+
+#### Umfang:
+Der derzeitiger Umfang verläuft sich über 1300 Texte des 17. bis 19. Jahrhunderts (ca. 100 Millionen Textwörter bzw. 685 Millionen Zeichen).
+Der geplanter Umfang beträgt ca. 1600 Texte des 17. bis 19. Jahrhunderts.
+
+#### Projektleitung:
+Prof. Dr. Wolfgang Klein
+
+#### MitarbeiterInnen:
+Das DTA-Team aus den Bereichen: Computerlinguistik, Koordination, Softwareentwicklung, Systemadministration, Webbapplikation und studentische Hilfskräfte für die Texterkennung.
+
+#### Lizenzen:
+Creative Commons-Lizenz CC BY-NC 3.0 
+
+#### Einschätzung des Erfolgs:
+Es ist teilweise schwierig einzuschätzen um welche Literatur es sich handelt, da sich der Umfang auf deutschsprachige Literatur vom 17. bis 19. Jahrhundert beläuft. Das kann nach meinen Einschätzungen ziemlich alles sein. Natürlich definieren sie, dass sie die bedeutendes Werke die seit dem Barock veröffentlicht wurden widerspiegeln wollen, doch es ist nicht definiert welche Werke als bedeutend gelten.
+Allerdings wird auf deren Seite sehr genau beschrieben, nach welchen Richtlinien sie arbeiten, welches Format sie anwenden und welche Texte bereits verfügbar oder in Planung sind. 
+Wichtig ist auch, dass angegeben wird unter welcher Lizenz die Inhalte stehen. Ferner sind die Angaben zum digitalisierten und transkribierten Werk sehr ausführlich dargestellt (u. a. Downloadmöglichkeit und Statistiken zum Werk).
+Nach der Förderung soll das DTA als aktives Archiv an der Berlin-Brandenburgischen Akademie der Wissenschaften fortgeführt werden. Das DTA gilt als Schlüsselrolle in der nationalen und internationalen Forschung, soweit sie in ihrer Arbeit wesentlich auf deutschsprachige Texte angewiesen ist.
+
+#### URL:
+http://www.deutschestextarchiv.de/
