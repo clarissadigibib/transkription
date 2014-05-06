@@ -1,0 +1,3 @@
+### Aufgabenbeschreibung
+
+Welche größeren Projekte existieren zur Transkription (von "Abtippen" bis kontrollierter OCR) und Tiefenerschließung (bspw. mit TEI) von digitalisierten Texten? Was haben die Projekte gemeinsam und wo unterscheiden sie sich (bswp. Wikisource von wissenschaftlichen Projekten an Hochschulen)? Es soll eine Übersicht von 5-10 relevanten Transkriptions-Projekten mit wesentlichen Angaben wie Umfang, Mitarbeiter, Herausgeber, Lizenzen, Einschätzung des Erfolgs etc. erstellt werden.
