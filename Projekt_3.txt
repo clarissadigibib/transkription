@@ -1,5 +1,5 @@
-#### Projekt_3:
-Tiefenerschließung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)
+#### Tiefenerschließung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB
+ (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)
 
 #### Herausgeber:
 SLUB Dresden und der UB Leipzig
