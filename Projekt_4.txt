@@ -1,0 +1,37 @@
+#### Projekt:
+KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)
+
+#### Herausgeber:
+Deutsche Staatsbibliothek zu Berlin, Preußischer Kulturbesitz
+
+#### Förderer:
+Gefördert wird das Projekt von der Deutsche Forschungsgemeinschaft (DFG).
+
+#### Laufzeit:
+Seit 2011
+
+#### Projektbeschreibung:
+Die Musikabteilung der Staatsbibliothek zu Berlin weist die weltweit größte Autographenkollektion auf. Dazu gehören Künstler wie Bach, Mozart, Beethoven u. v. m..
+Der Kernbestand dieser Autographensammlung soll der vom 17. bis zum mittleren 19. Jahrhundert reicht, soll durch dieses Projekt wissenschaftlich erschlossen werden. Die erschlossenen Werke sollen über den RISM-OPAC recherchierbar gemacht werden
+
+#### Umfang:
+7.500 Quellen des 17. bis frühen 19. Jahrhunderts
+
+#### Projektleitung:
+Dr. Martina Rebmann
+
+#### MitarbeiterInnen:
+Wolfgang Eckhardt M.A./M.A. (LIS)
+Julia Neumann M.A./M.A. (LIS)
+Dr. Tobias Schwinger
+Alexander Staub M.A.
+
+#### Einschätzung des Erfolgs:
+Durch die Größe dieses Bestandssegments kann die digitale Dokumentation von Schreiberhänden und Wasserzeichen flächendeckend durchgeführt werden. Daraus resultieren Querbeziehungen innerhalb dieses Bestands. Außerdem werden dadurch wichtige Aufschlüsse für die chronologische Einordnung und geografische Verortung der Werke gegeben. Sie beschreiben selber, dass durch das Projekt neue Wege der Tiefenerschließung von Musikhandschriften entstehen werden.
+Positiv ist auch, dass die Recherche über den RISM-OPAC möglich ist. Die Suche über den OPAC ist sehr detailgetreu um eine feine Recherche zu ermöglichen. Den Treffer kann man sich auch speichern oder auch per E-Mail versenden.
+Außerdem zeigt dieses Projekt, dass nicht nur Handschriften, sondern auch Musikquellen digitalisiert und erschlossen werden können.
+
+#### URL:
+http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/
+Beispiel: https://opac.rism.info/metaopac/start.do?BaseURL=https://opac.rism.info/metaopac/start.do%3fView=rism&View=rism
+464120606 
