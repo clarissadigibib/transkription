@@ -21,5 +21,3 @@ GNU-Lizenz für freie Dokumentation und Creative-Commons-Lizenzen (CC-BY bzw. CC
 #### Einschätzung des Erfolgs:
 Im Vergleich zu den anderen Transkriptions-Projekten hat Wikisource den Vorteil parallel an verschiedenen Projekten zu arbeiten und diverse Themenbereichen anbieten zu können.
 Wikisource profitiert natürlich auch von dem Schwersternprojekt Wikipedia und hat dadurch einen höheren Bekanntheitsgrad als bspw. das DTA. Als weiteren Vorteil ist auch anzuerkennen, dass externe ihr eigenes Transkriptions-Projekt starten können.
-
-https://www.ub.uni-koeln.de/bibliotheken/bibliotheksfuehrer/ressourcen/etextewikide/index_ger.html
