@@ -1,5 +1,4 @@
-#### Projekt_6:
-Wikisource
+#### Wikisource
 
 #### Herausgeber:
 Wikisource wird von der Wikimedia Foundation betrieben, die für verschiedene weitere mehrsprachige und freie Projekte verantwortlich ist.
