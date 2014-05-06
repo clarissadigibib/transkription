@@ -10,14 +10,11 @@ Stiftung Polytechnische Gesellschaft
 Gemeinnützige Hertie-Stiftung
 
 #### Laufzeit:
-1. Förderphase 2010 – 2013
-2. Förderphase 2013 – 2015
-
-Johann Christian Senckenberg (1707 – 1772) war u .a. ein deutscher Arzt und Stifter. Außerdem ist er der Namensgeber der UB Frankfurt am Main.
+2010 – 2015
 
 #### Projektbeschreibung:
 Die Tagebücher Senckenbergs werden als Depositum der Dr. Senckenbergischen Stiftung an der UB Frankfurt am Main verwahrt. Dieser Bestand umfasst u. a. 53 Tagebücher aus dem Zeitraum 1730-1772. 
-Anlässlich der 250-Jahr-Feier der Dr. Senckenbergischen Stiftung sollen die Tagebücher der Jahre 1730 bis 1742 entschlüsselt werden um Näheres über die eigene Gründungsgeschichte der Stiftung zu erfahren. Außerdem sollen Senckenbergs Tagebücher keine Bücher mit Sieben Siegeln mehr sein.
+Anlässlich der 250-Jahr-Feier der Dr. Senckenbergischen Stiftung sollen die Tagebücher der Jahre 1730 bis 1742 entschlüsselt werden um Näheres über die eigene Gründungsgeschichte der Stiftung zu erfahren.
 
 #### Umfang:
 13.000 Tagebuchseiten der Jahre 1730 bis 1742
@@ -31,10 +28,8 @@ Transkription: Dr. Veronika Marschall
 Technische Betreuung: Armin Wenz
 
 #### Einschätzung des Erfolgs:
-In diesem Projekt handelt es sich ausschließlich um die Senckenbergs Tagebücher, daher ist das Interesse Seitens wissenschaftlicher Forschung sehr gering. Daher wird das Projekt auch nicht von der Deustchen Forschungsgemeinschaft gefördert. 
-Das die Tagebücher digitalisiert und transkribiert werden, hat nur für Interessenten einen Nutzen. Allerdings scheint daran schon Bedarf zu bestehen, denn dies ist schon das zweite Projekt, bei dem Senckenbergs Tagebücher mit wissenschaftlicher Unterstützung in TEI transkribiert wurden. 
-Schade ist allerdings, dass der anfängliche Grund des Projekts – nämlich mehr über die Stiftungsgründung zu erfahren – nicht das erbracht hat, was anfangs gehofft wurde.
-Zu kritisieren ist auch, dass es schwer nach Senckenbergs Tagebüchern zu recherchieren ist, wenn man nicht weiß, dass diese digitalisiert wurde. 
+In diesem Projekt handelt es sich ausschließlich um Senckenbergs Tagebücher, daher ist das Interesse Seitens wissenschaftlicher Forschung sehr gering. Außerdem ist zu kritisieren, dass es schwer ist, nach Senckenbergs Tagebüchern zu recherchieren, wenn man nicht weiß, dass diese digitalisiert wurde. 
+Allerdings scheint an der Digitalisierung Bedarf zu bestehen, denn dies ist schon das zweite Projekt, bei dem Senckenbergs Tagebücher mit wissenschaftlicher Unterstützung in TEI transkribiert werden. 
 
 #### URL: 
 http://www.ub.uni-frankfurt.de/projekte/senckenberg.html
