@@ -1,0 +1,31 @@
+#### Projekt:
+Tiefenerschließung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)
+
+#### Herausgeber:
+SLUB Dresden und der UB Leipzig
+
+#### Förderer:
+Gefördert wird das Projekt von der Deutsche Forschungsgemeinschaft (DFG).
+Kooperation mit dem Handschriftenzentrum der Universitätsbibliothek Leipzig. Auf Manuscripta Mediaevalia wird der ortsunabhängige und kostenfreie Zugang zu den Ergebnissen ermöglicht. 
+
+#### Laufzeit:
+2008 – 2015
+
+#### Projektbeschreibung:
+Ziel dieses Projekts ist es die wissenschaftliche Erschließung und vollständige Digitalisierung der deutschsprachigen und niederländischen mittelalterlichen Handschriften der SLUB.
+
+#### Umfang:
+Der Bestand umfasst 165 deutschsprachige und niederländische mittelalterlichen Handschriften.
+
+#### MitarbeiterInnen:
+Bearbeiter: Dr. Werner Hoffmann
+MXML-Eingabe: Anita Hellmich
+
+#### Einschätzung des Erfolgs:
+Da auf Manuscripta Mediaevalia nicht nur die Ergebnisse dieses Projekts recherchierbar sind, sondern auch andere Digitalisate von Handschriften, ist dies bei der Recherche vom großen Nutzen. Außerdem wird der Katalog kontinuierlich von der DFG unterstützt.
+Da durch die Kombination von Tiefenerschließung und Gesamtdigitalisierung de Handschriften erfolgt, können alle erforderlichen Informationen für eine ungehinderte wissenschaftliche Nutzung bereitgestellt werden.
+Außerdem ist zu erwähnen, das auf Manuscripta Mediaevalia die einzelnen Werke sehr detailgetreu beschrieben werden. Denn es wird nicht nur auf den Inhalt eingegangen, sondern u. a. auch auf die äußere Beschaffenheit des Werkes.
+
+#### URL:
+http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und-digitalisierung/handschriften/?type=0%252Findex.html%2Ftrackback
+Beispiel: http://www.manuscripta-mediaevalia.de/?INFO_projectinfo/dresden#|5
