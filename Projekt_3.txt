@@ -6,7 +6,7 @@ SLUB Dresden und der UB Leipzig
 
 #### Förderer:
 Deutsche Forschungsgemeinschaft (DFG)
-Auf Manuscripta Mediaevalia wird der ortsunabhängige und kostenfreie Zugang zu den Ergebnissen ermöglicht. 
+Auf [Manuscripta Mediaevalia](http://www.manuscripta-mediaevalia.de/?INFO_projectinfo/dresden#|5) wird der ortsunabhängige und kostenfreie Zugang zu den Ergebnissen ermöglicht. 
 
 #### Laufzeit:
 2008 – 2015
@@ -25,5 +25,3 @@ MXML-Eingabe: Anita Hellmich
 Da auf Manuscripta Mediaevalia nicht nur die Ergebnisse dieses Projekts recherchierbar sind, sondern auch andere Digitalisate von Handschriften, ist dies bei der Recherche vom großen Nutzen. Außerdem wird der Katalog kontinuierlich von der DFG unterstützt.
 Da durch die Kombination von Tiefenerschließung und Gesamtdigitalisierung de Handschriften erfolgt, können alle erforderlichen Informationen für eine ungehinderte wissenschaftliche Nutzung bereitgestellt werden.
 Außerdem ist zu erwähnen, das auf Manuscripta Mediaevalia die einzelnen Werke sehr detailgetreu beschrieben werden. Denn es wird nicht nur auf den Inhalt eingegangen, sondern u. a. auch auf die äußere Beschaffenheit des Werkes.
-
-Beispiel: http://www.manuscripta-mediaevalia.de/?INFO_projectinfo/dresden#|5
