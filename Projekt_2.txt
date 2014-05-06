@@ -32,6 +32,3 @@ Es ist teilweise schwierig einzuschätzen um welche Literatur es sich handelt, d
 Allerdings wird auf deren Seite sehr genau beschrieben, nach welchen Richtlinien sie arbeiten, welches Format sie anwenden und welche Texte bereits verfügbar oder in Planung sind. 
 Wichtig ist auch, dass angegeben wird unter welcher Lizenz die Inhalte stehen. Ferner sind die Angaben zum digitalisierten und transkribierten Werk sehr ausführlich dargestellt (u. a. Downloadmöglichkeit und Statistiken zum Werk).
 Nach der Förderung soll das DTA als aktives Archiv an der Berlin-Brandenburgischen Akademie der Wissenschaften fortgeführt werden. Das DTA gilt als Schlüsselrolle in der nationalen und internationalen Forschung, soweit sie in ihrer Arbeit wesentlich auf deutschsprachige Texte angewiesen ist.
-
-#### URL:
-http://www.deutschestextarchiv.de/
