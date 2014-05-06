@@ -1,0 +1,8 @@
+## Fazit
+
+Diese sechs Projekte zur Transkription und Tiefenerschließung sind alle in ihrer Vorgehensweise ähnlich. Doch die Inhalte unterscheiden sich dahingehend, dass sowohl Musikalien, als auch mittelalterliche Handschriften aber auch Tagebücher einer Person erschlossen werden. 
+Das Projekt DTA und Wikisource haben parallelen in dem Vorgehen, doch Wikisource ist in der Auswahl der Texte nicht so eingeschränkt wie das DTA. 
+Die Projekte KoFIM Berlin und Transkription der Tagebücher Johann Christian Senckenberg zeigen, dass auch andere Werke digitalisiert und erschlossen werden können.
+Im Bereich der Handschriften-Digitalisierung sind die Projekte Tiefenerschließung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB und Katalogisierung der mittelalterlichen Handschriften ziemlich identisch aufgebaut. Beide folgen auch den "Richtlinien Handschriftenkatalogisierung“ der DFG.
+Abschließend kann man sagen, dass alle Projekte einen wissenschaftlichen Charakter aufweisen. Allerdings ist bei Wikisource der Unterschied, dass es weitaus kommerzieller aufgebaut ist. Zu beachten ist auch, dass Wikisource nicht von der DFG unterstützt wird.
+
