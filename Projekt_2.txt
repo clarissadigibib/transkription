@@ -1,5 +1,4 @@
-#### Projekt_2:
-Deutsches Textarchiv (DTA)
+#### Deutsches Textarchiv (DTA)
 
 #### Herausgeber:
 Das Forschungsprojekt DTA ist Teil des „Zentrums Sprache" der Berlin-Brandenburgischen Akademie der Wissenschaften. 
