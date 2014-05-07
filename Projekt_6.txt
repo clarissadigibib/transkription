@@ -16,7 +16,7 @@ Seit August 2009 werden die Volltexte aus Wikisource im Katalog der Universität
 Die deutsche Wikisource hat mittlerweile 31.315 Werke in ihrem Bestand.
 
 #### Lizenzen:
-GNU-Lizenz für freie Dokumentation und Creative-Commons-Lizenzen (CC-BY bzw. CC-BY-SA).
+[GNU-Lizenz für freie Dokumentation](https://www.gnu.org/licenses/fdl-1.3) und Creative-Commons-Lizenzen (CC-BY bzw. CC-BY-SA).
 
 #### Einschätzung des Erfolgs:
 Im Vergleich zu den anderen Transkriptions-Projekten hat Wikisource den Vorteil parallel an verschiedenen Projekten zu arbeiten und diverse Themenbereichen anbieten zu können.
