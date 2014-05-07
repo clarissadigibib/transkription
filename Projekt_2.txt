@@ -35,5 +35,5 @@ Wichtig ist auch, dass angegeben wird unter welcher Lizenz die Inhalte stehen. F
 Nach der Förderung soll das DTA als aktives Archiv an der Berlin-Brandenburgischen Akademie der Wissenschaften fortgeführt werden. Das DTA gilt als Schlüsselrolle in der nationalen und internationalen Forschung, soweit sie in ihrer Arbeit wesentlich auf deutschsprachige Texte angewiesen ist.
 
 **Erläuterung**
-OCR:
-Double Keying:
+- Unter OCR versteht man die automatisierte Texterkennung innerhalb von Bildern.
+- Durch das Double Keying werden Dokumentinhalte von je zwei verschiedenen Personen erfasst. 	 Anschließend werden die beiden Versionen mittels PC miteinander verglichen.
