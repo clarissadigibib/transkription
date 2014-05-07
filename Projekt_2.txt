@@ -23,7 +23,7 @@ Geplanter Umfang: ca. 1600 Texte des 17. bis 19. Jahrhunderts
 Prof. Dr. Wolfgang Klein
 
 #### MitarbeiterInnen:
-Das DTA-Team aus den Bereichen: Computerlinguistik, Koordination, Softwareentwicklung, Systemadministration, Webbapplikation und studentische Hilfskräfte für die Texterkennung.
+Das DTA-Team aus den Bereichen: Computerlinguistik, Koordination, Softwareentwicklung, Systemadministration, Webapplikation und studentische Hilfskräfte für die Texterkennung.
 
 #### Lizenzen:
 [Creative Commons-Lizenz](http://de.creativecommons.org/was-ist-cc/) CC BY-NC 3.0 
