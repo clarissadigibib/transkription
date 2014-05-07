@@ -5,6 +5,7 @@ UB = Universiätsbibliothek
 ULB = Universiäts- und Landesbibliothek
 DTA = Deutsches Textarchiv
 KoFIM = Kompetenzzentrum Forschung und Information Musik
+TEI = Text Encoding Initiative
 
 
 
