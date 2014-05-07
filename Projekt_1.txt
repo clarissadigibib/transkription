@@ -32,5 +32,5 @@ Technische Betreuung: Armin Wenz
 In diesem Projekt handelt es sich ausschließlich um Senckenbergs Tagebücher, daher ist das Interesse Seitens wissenschaftlicher Forschung sehr gering. Außerdem ist zu kritisieren, dass es schwer ist, nach Senckenbergs Tagebüchern zu recherchieren, wenn man nicht weiß, dass diese digitalisiert wurde. 
 Allerdings scheint an der Digitalisierung Bedarf zu bestehen, denn dies ist schon das zweite Projekt, bei dem Senckenbergs Tagebücher mit wissenschaftlicher Unterstützung in TEI transkribiert werden. 
 
-Erläuterung:
+**Erläuterung**
 TEI steht u. a. für ein Dokumentenformat, dass zur Kodierung und zum Austausch von Texten genutzt wird.
