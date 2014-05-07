@@ -5,7 +5,7 @@
 Deutsche Staatsbibliothek zu Berlin, Preußischer Kulturbesitz
 
 #### Förderer:
-Deutsche Forschungsgemeinschaft (DFG)
+Deutsche Forschungsgemeinschaft
 
 #### Laufzeit:
 Seit 2011
@@ -32,3 +32,6 @@ Sie beschreiben selber, dass durch das Projekt neue Wege der Tiefenerschließung
 Die Suche über den RISM-OPAC ist sehr detailgetreu um eine feine Recherche zu ermöglichen. Den Treffer kann man sich auch speichern oder auch per E-Mail versenden.
 Außerdem zeigt dieses Projekt, dass nicht nur Handschriften, sondern auch Musikquellen digitalisiert und erschlossen werden können.
 <tbody>![Musikquelle.png](images/Musikquelle.png)Beispiel-Digitalisat einer Sammelhandschrift</tbody>
+
+**Erläuterung**
+- Der RISM-OPAC ist eine Datenbank, über den Musikquellen recherchierbar sind. 
