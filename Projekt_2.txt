@@ -13,7 +13,7 @@ Deutsche Forschungsgemeinschaft (DFG)
 Der disziplinübergreifende Kernbestand des DTA erstreckt sich über deutschsprachige Texte des 17. bis 19. Jahrhunderts. Diese Texte werden digitalisiert, mittels OCR und Double Keying erschlossen und so aufbereitet, dass diese über das Internet in vielfältiger Weise nutzbar sind.
 Genauer ist beschrieben, dass das DTA in größtmöglicher Breite das widerspiegeln soll, was seit dem Barock an bedeutenden Werken in deutscher Sprache veröffentlicht worden ist. Dazu gehören Werke aus der Wissenschaft, der Belletristik und der Gebrauchsliteratur.
 Das DTA stellt sowohl die Volltexte, als auch die dazugehörigen Bildvorlagen zu Verfügung. Das Basisformat folgt den P5-Richtlinien der [Text Encoding Initiative](http://www.tei-c.org/index.xml) (TEI).
-<tbody> ![DTA.png](images/DTA.png)Transkription des Digitalisats </tbody>
+<tbody>![DTA.png](images/DTA.png)Transkription des Digitalisats</tbody>
 
 #### Umfang:
 Derzeitiger Umfang: 1300 Texte des 17. bis 19. Jahrhunderts
