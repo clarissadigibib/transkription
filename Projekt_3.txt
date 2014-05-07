@@ -15,7 +15,7 @@ Auf [Manuscripta Mediaevalia](http://www.manuscripta-mediaevalia.de/?INFO_projec
 Ziel dieses Projekts ist es die wissenschaftliche Erschließung und vollständige Digitalisierung der deutschsprachigen und niederländischen mittelalterlichen Handschriften der SLUB.
 
 #### Umfang:
-Der Bestand umfasst 165 deutschsprachige und niederländische mittelalterlichen Handschriften.
+Der Bestand umfasst 165 deutschsprachige und niederländische mittelalterliche Handschriften.
 
 #### MitarbeiterInnen:
 Bearbeiter: Dr. Werner Hoffmann
@@ -26,4 +26,4 @@ Da auf Manuscripta Mediaevalia nicht nur die Ergebnisse dieses Projekts recherch
 <tbody>![Manuscripta_Mediaevalia.png](images/Manuscripta_Mediaevalia.png)Äußere Beschreibung des Werks</tbody>
 
 Da durch die Kombination von Tiefenerschließung und Gesamtdigitalisierung de Handschriften erfolgt, können alle erforderlichen Informationen für eine ungehinderte wissenschaftliche Nutzung bereitgestellt werden.
-Außerdem ist zu erwähnen, das auf Manuscripta Mediaevalia die einzelnen Werke sehr detailgetreu beschrieben werden. Denn es wird nicht nur auf den Inhalt eingegangen, sondern u. a. auch auf die äußere Beschaffenheit des Werkes.
+Außerdem ist zu erwähnen, dass auf Manuscripta Mediaevalia die einzelnen Werke sehr detailgetreu beschrieben werden. Denn es wird nicht nur auf den Inhalt eingegangen, sondern u. a. auch auf die äußere Beschaffenheit des Werkes.
