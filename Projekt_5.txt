@@ -27,4 +27,4 @@ Katrin Wenig
 In dem seit 1998 abgeschlossenen Projektabschnitten entstanden:
 Die mittelalterlichen Handschriften der Signaturengruppe B in der Universitäts- und Landesbibliothek Düsseldorf. Teil 1. Ms. B 1 bis B 100 und Teil 2. Ms. B 101a bis B 214, sowie Signaturengruppe C.
 Die Handschriften werden zwar digitalisiert, aber es erfolgt keine vollständige Transkription. 
-Positiv ist allerdings, dass man einen RSS-Feed abonnieren kann, genauso das eine OAI-Schnittstelle geschaffen wurde.
+Positiv ist allerdings, dass man einen RSS-Feed abonnieren kann, genauso dass eine OAI-Schnittstelle geschaffen wurde.
