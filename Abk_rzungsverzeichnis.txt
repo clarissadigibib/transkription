@@ -1,14 +1,14 @@
 ## Abkürzungsverzeichnis
 
 DFG = Deutsche Forschungsgemeinschaft
-UB = Universiätsbibliothek
-ULB = Universiäts- und Landesbibliothek
 DTA = Deutsches Textarchiv
 KoFIM = Kompetenzzentrum Forschung und Information Musik
+OAI = Open Archives Initiative
+OCR = Optical Character Recognition
+RISM-OPAC = Répertoire International des Sources Musicales-OPAC
+SLUB = Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden
 TEI = Text Encoding Initiative
-
-
-
-
+UB = Universiätsbibliothek
+ULB = Universiäts- und Landesbibliothek
 
 
