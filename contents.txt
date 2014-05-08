@@ -14,5 +14,3 @@ Projekt_6.txt
 Fazit.txt
 Quellen.txt
 contents.txt
-your-filename-2014-05-09.txt
-Tiefenerschlie_ung.txt
