@@ -1,14 +1,59 @@
 ## Quellenverzeichnis
 
-http://www.ub.uni-frankfurt.de/projekte/senckenberg.html
-http://senckenberg.ub.uni-frankfurt.de/
+@misc{BerlinBrandenburgischeAkademiederWissenschaften.o.J.,
+ author = {{Berlin-Brandenburgische Akademie der Wissenschaften}{Deutsches Textarchiv}},
+ year = {o. J.},
+ title = {Deutsches Textarchiv: Grundlage f{\"u}r ein Referenzkorpus der neuhochdeutschen Sprache},
+ url = {http://www.deutschestextarchiv.de/},
+ address = {o. O.},
+ urldate = {08.05.2014}
+}
 
-http://www.deutschestextarchiv.de/
 
-http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und-digitalisierung/handschriften/?type=0%252Findex.html%2Ftrackback
+@misc{GoetheUniversitat.2013,
+ author = {Goethe-Universit{\"a}t},
+ year = {2013},
+ title = {Johann Christian Senckenberg (1707-1772): Transkription der Tageb{\"u}cher},
+ url = {http://senckenberg.ub.uni-frankfurt.de/},
+ address = {Frankfurt am Main},
+ urldate = {08.05.2013}
+}
 
-http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/
 
-http://www.ulb.hhu.de/die-ulb/projekte/katalogisierung-der-mittelalterlichen-handschriften.html
+@misc{HeinrichHeineUniversitatDusseldorf.2013,
+ author = {{Heinrich-Heine-Universit{\"a}t D{\"u}sseldorf}},
+ year = {2013},
+ title = {Katalogisierung der mittelalterlichen Handschriften},
+ url = {http://www.ulb.hhu.de/die-ulb/projekte/katalogisierung-der-mittelalterlichen-handschriften.html},
+ address = {D{\"u}sseldorf},
+ urldate = {08.05.2014}
+}
 
-http://de.wikisource.org/wiki/Hauptseite
+
+@misc{ManuscriptaMediaevalia.o.J.,
+ author = {{Manuscripta Mediaevalia}},
+ year = {o. J.},
+ title = {Tiefenerschlie{\ss}ung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der S{\"a}chsischen Landesbibliothek - Staats- und Universit{\"a}tsbibliothek (SLUB) Dresden},
+ url = {http://www.manuscripta-mediaevalia.de/?INFO\_projectinfo/dresden\#|5},
+ address = {o. O.},
+ urldate = {08.05.2014}
+}
+
+
+@article{Niederlein.2013,
+ author = {Niederlein, Frank},
+ year = {2013},
+ title = {Tiefenerschlie{\ss}ung: Katalog in der 3. Dimension},
+ urldate = {08.05.2014},
+ pages = {92--95},
+ volume = {2013},
+ number = {2},
+ journal = {BIS - Das Magazin der Bibliotheken in Sachsen}
+}
+
+
+@misc{SLUBDresden.o.J.,
+ author = {{SLUB Dresden}},
+ year = {o. J.},
+ title = {Tiefenerschlie{\ss}ung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB},
+ url = {http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und
