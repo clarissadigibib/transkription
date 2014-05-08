@@ -1,0 +1,6 @@
+## Tiefenerschließung
+
+Die Tiefenerschließung ist Teil der inhaltlichen Erschließung. Durch die tiefe Erschließung der Volltexte, werden diese im sogenannten Deep Web recherchierbar gemacht. Das bedeutet, dass diese Volltexte wieder auffindbar sind und dadurch für die Forschung ein besserer Zugang zu den Quellen gewährleistet werden kann.
+
+**Erläuterung**
+- Deep Web: nicht frei zugängliche Inhalte oder Inhalte, die von Suchmaschinen nicht indexiert wurden.
