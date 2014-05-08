@@ -3,6 +3,7 @@
 Aufgabenbeschreibung.txt
 Abk_rzungsverzeichnis.txt
 Einleitung.txt
+Transkription.txt
 Projekt_1.txt
 Projekt_2.txt
 Projekt_3.txt
