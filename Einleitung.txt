@@ -1,4 +1,7 @@
 ## Einleitung
 
-In den fogenden Kapiteln werden sechs ausgewählte laufende Transkriptionsprojekte und Projekte zur Tiefenerschließung aufgelistet und abschließend miteinander verglichen.
-Zu den ausgewählten Projekten gehören u. a. Bibliotheksprojekte aber auch Zu der Auflistung der verschiedenen Pro
+In Zeiten der Digitalisierung ist das Erschließen von Texten u. a. von mittelalterlichen Handschriften sehr bedeutsam geworden. Besonders bei "alten" Werken, deren physische Form geschützt werden muss, ist das Digitalisieren von großer Bedeutung. Dabei geht es nicht nur darum die Werke zu digitalisieren, sondern auch zu transkribieren. Neben der Formalerschließung spielt auch die inhaltliche Erschließung der Werke eine wichtige Rolle. Durch die Tiefenerschließung werden die Volltexte im sogenannten Deep Web recherchierbar gemacht.
+
+Um dies überhaupt zu ermöglichen gibt es immer wieder Projekte, die das Digitalisieren, das Transkribieren und das Erschließen möglich machen. Im nachfolgenden werden sechs verschiedene Projekte zur Transkription und zur Tiefenerschließung beschrieben und abschließend verglichen.
+
+
