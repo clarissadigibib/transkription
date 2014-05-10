@@ -34,4 +34,4 @@ Außerdem zeigt dieses Projekt, dass nicht nur Handschriften, sondern auch Musik
 <tbody>![Musikquelle.png](images/Musikquelle.png)Beispiel-Digitalisat einer Sammelhandschrift</tbody>
 
 **Erläuterung**
-- Der RISM-OPAC ist eine Datenbank, über den Musikquellen recherchierbar sind. 
+Der RISM-OPAC ist eine Datenbank, über den Musikquellen recherchierbar sind. 
