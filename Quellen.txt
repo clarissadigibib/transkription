@@ -1,6 +1,7 @@
 ## Quellenverzeichnis
 
 @misc{BerlinBrandenburgischeAkademiederWissenschaften.o.J.,
+ abstract = {Das Deutsche Textarchiv hat die Aufgabe einen disziplin{\"u}bergreifenden Kernbestand deutschsprachiger Texte aus der Zeit von ca. 16. bis 19. Jahrhundert zu digitalisieren und {\"u}ber das Internet in vielf{\"a}ltiger Weise nutzbar zu machen.},
  author = {{Berlin-Brandenburgische Akademie der Wissenschaften}{Deutsches Textarchiv}},
  year = {o. J.},
  title = {Deutsches Textarchiv: Grundlage f{\"u}r ein Referenzkorpus der neuhochdeutschen Sprache},
@@ -11,6 +12,7 @@
 
 
 @misc{GoetheUniversitat.2013,
+ abstract = {Die Tageb{\"u}cher von Johann Cristian Senckenberg (1707-1772), wurden aus den Jahren 1762/63 digitalisiert und mit wissenschaftlicher Unterst{\"u}tzung in TEI transkribiert.},
  author = {Goethe-Universit{\"a}t},
  year = {2013},
  title = {Johann Christian Senckenberg (1707-1772): Transkription der Tageb{\"u}cher},
@@ -21,6 +23,7 @@
 
 
 @misc{HeinrichHeineUniversitatDusseldorf.2013,
+ abstract = {Die Handschriften der ULB D{\"u}sseldorf, die aus 22 rheinischen und westf{\"a}lischen Kl{\"o}stern, Stiften und Konventen stammen, sollen in einem weiteren, von der DFG gef{\"o}rderten Projektabschnitt digitalisiert und durch Tiefenerschlie{\ss}ung wissenschaftliche recherchierbar gemacht werden.},
  author = {{Heinrich-Heine-Universit{\"a}t D{\"u}sseldorf}},
  year = {2013},
  title = {Katalogisierung der mittelalterlichen Handschriften},
@@ -31,6 +34,7 @@
 
 
 @misc{ManuscriptaMediaevalia.o.J.,
+ abstract = {Das Kooperationsprojekt der SLUB Dresden und der UB Leipzig, welches von der DFG gef{\"o}rdert wird, hat die Aufgabe, die deutschsprachigen und niederl{\"a}ndischen mittelalterlichen Handschriften der SLUB Dresden zu digitalisieren und wissenschaftlich zu erschlie{\ss}en.},
  author = {{Manuscripta Mediaevalia}},
  year = {o. J.},
  title = {Tiefenerschlie{\ss}ung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der S{\"a}chsischen Landesbibliothek - Staats- und Universit{\"a}tsbibliothek (SLUB) Dresden},
@@ -41,6 +45,7 @@
 
 
 @article{Niederlein.2013,
+ abstract = {Im Projekt der SLUB Dresden, integrierte maschinelle Tiefenerschlie{\ss}ung von Datenbankinformationen, werden die Informationen die im Deep Web schlecht oder gar nicht auffindbar sind, durch die Tiefenerschlie{\ss}ung wissenschaftlich recherchierbar gemacht.},
  author = {Niederlein, Frank},
  year = {2013},
  title = {Tiefenerschlie{\ss}ung: Katalog in der 3. Dimension},
@@ -53,7 +58,44 @@
 
 
 @misc{SLUBDresden.o.J.,
+ abstract = {Durch das Kooperationsprojekt der SLUB Dresden und der UB Leipzig werden 165 deutschsprachige und niederl{\"a}ndische mittelalterliche Handschriften der SLUB Dresden wissenschaftlich erschlossen und vollst{\"a}ndig digitalisiert.},
  author = {{SLUB Dresden}},
  year = {o. J.},
  title = {Tiefenerschlie{\ss}ung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB},
- url = {http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und
+ url = {http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und-digitalisierung/handschriften/?type=0\%252Findex.html\%2Ftrackback},
+ address = {Dresden},
+ urldate = {08.05.2014}
+}
+
+
+@misc{StaatsbibliothekzuBerlinPreuischerKulturbesitz.o.J.,
+ abstract = {Das von der DFG gef{\"o}rderte Projekt KoFIM, der Staatsbibliothek zu Berlin, hat die Aufgabe den Kernbestand ihrer Autographensammlung wissenschaftlich zu erschlie{\ss}en und {\"u}ber den RSISM-OPAC recherchierbar zu machen.},
+ author = {{Staatsbibliothek zu Berlin - Preu{\ss}ischer Kulturbesitz}},
+ year = {o. J.},
+ title = {DFG-Projekt KoFIM Berlin (Kompetenzzentrum Forschung und Information Musik)},
+ url = {http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-kofim-berlin/},
+ address = {Berlin},
+ urldate = {08.05.2014}
+}
+
+
+@misc{UniversitatsbibliothekJohannChristianSenckenberg.o.J.,
+ abstract = {Das Projekt {\dq}Transkription der Tageb{\"u}cher Johann Christian Senckenbergs{\dq} schlie{\ss}t an das vorherige Projekt hat. Die B{\"a}nde 1-18 der Tageb{\"u}cher von Senckenberg aus den Jahren 1730-1742 sollen digitalisiert und transkribiert werden.},
+ author = {{Universit{\"a}tsbibliothek Johann Christian Senckenberg}},
+ year = {o. J.},
+ title = {Transkription der Tageb{\"u}cher Johann Christian Senckenbergs},
+ url = {http://www.ub.uni-frankfurt.de/projekte/senckenberg.html},
+ address = {Frankfurt am Main},
+ urldate = {08.05.2014}
+}
+
+
+@misc{WikimediaFoundationInc..o.J.,
+ abstract = {Wikisource sammelt Quelltexte, die entweder urheberrechtsfrei sind oder unter einer freien Lizenz stehen. Die bereits ver{\"o}ffentlichten, aber auch unver{\"o}ffentlichte Texte werden digitalisiert und anschlie{\ss}end mittelt OCR transkribiert.},
+ author = {{Wikimedia Foundation Inc.}},
+ year = {o. J.},
+ title = {Wikisource: Hauptseite},
+ url = {http://de.wikisource.org/wiki/Hauptseite},
+ address = {o. O.},
+ urldate = {08.05.2014}
+}
