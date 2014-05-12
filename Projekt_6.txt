@@ -1,5 +1,7 @@
 ## Wikisource
 
+Die Beschreibung des Projekts finden Sie [hier](http://de.wikisource.org/wiki/Hauptseite).
+
 #### Herausgeber:
 Wikisource wird von der Wikimedia Foundation betrieben, die für verschiedene weitere mehrsprachige und freie Projekte verantwortlich ist.
 
