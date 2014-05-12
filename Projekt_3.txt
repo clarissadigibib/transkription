@@ -1,6 +1,8 @@
 ## Tiefenerschließung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der SLUB
 (Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden)
 
+Die Beschreibung des Projekts finden Sie [hier](http://www.slub-dresden.de/ueber-uns/projekte/erschliessung-und-digitalisierung/handschriften/).
+
 #### Herausgeber:
 SLUB Dresden und der UB Leipzig
 
