@@ -25,6 +25,7 @@ MXML-Eingabe: Anita Hellmich
 
 #### Einschätzung des Erfolgs:
 Da auf Manuscripta Mediaevalia nicht nur die Ergebnisse dieses Projekts recherchierbar sind, sondern auch andere Digitalisate von Handschriften, ist dies bei der Recherche vom großen Nutzen. Außerdem wird der Katalog kontinuierlich von der DFG unterstützt.
+
 <tbody>![Manuscripta_Mediaevalia.png](images/Manuscripta_Mediaevalia.png)Äußere Beschreibung des Werks</tbody>
 
 Da durch die Kombination von Tiefenerschließung und Gesamtdigitalisierung de Handschriften erfolgt, können alle erforderlichen Informationen für eine ungehinderte wissenschaftliche Nutzung bereitgestellt werden.
