@@ -29,7 +29,7 @@ Prof. Dr. Wolfgang Klein
 Das DTA-Team aus den Bereichen: Computerlinguistik, Koordination, Softwareentwicklung, Systemadministration, Webapplikation und studentische Hilfskräfte für die Texterkennung.
 
 #### Lizenzen:
-[Creative Commons-Lizenz](http://de.creativecommons.org/was-ist-cc/) (Homepage: creativecommons) CC BY-NC 3.0 
+[Creative Commons-Lizenz](http://de.creativecommons.org/was-ist-cc/) (Homepage: creativecommons - Was ist CC?) CC BY-NC 3.0 
 
 #### Einschätzung des Erfolgs:
 Es ist teilweise schwierig einzuschätzen um welche Literatur es sich handelt, da sich der Umfang auf deutschsprachige Literatur vom 17. bis 19. Jahrhundert beläuft. Auch ist schwer zu beurteilen, welche Werke nach dem Barock bedeutend waren.
