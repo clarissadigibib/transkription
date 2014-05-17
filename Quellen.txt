@@ -38,7 +38,7 @@
  author = {{Manuscripta Mediaevalia}},
  year = {o. J.},
  title = {Tiefenerschlie{\ss}ung und Digitalisierung der deutschsprachigen mittelalterlichen Handschriften der S{\"a}chsischen Landesbibliothek - Staats- und Universit{\"a}tsbibliothek (SLUB) Dresden},
- url = {http://www.manuscripta-mediaevalia.de/?INFO\_projectinfo/dresden\#|5},
+ url = {http://www.manuscripta-mediaevalia.de/?INFO\_projectinfo/dresden\#|6},
  address = {o. O.},
  urldate = {08.05.2014}
 }
