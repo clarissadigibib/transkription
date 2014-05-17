@@ -33,6 +33,7 @@ Durch die Größe dieses Bestandssegments kann die digitale Dokumentation von Sc
 Sie beschreiben selber, dass durch das Projekt neue Wege der Tiefenerschließung von Musikhandschriften entstehen werden.
 Die Suche über den RISM-OPAC ist sehr detailgetreu um eine feine Recherche zu ermöglichen. Den Treffer kann man sich auch speichern oder auch per E-Mail versenden.
 Außerdem zeigt dieses Projekt, dass nicht nur Handschriften, sondern auch Musikquellen digitalisiert und erschlossen werden können.
+
 <tbody>![Musikquelle.png](images/Musikquelle.png)Beispiel-Digitalisat einer Sammelhandschrift</tbody>
 
 **Erläuterung**
