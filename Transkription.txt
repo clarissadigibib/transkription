@@ -1,8 +1,7 @@
 ## Transkription
 
-Transkription hat verschiedene Ansätze zur Erläuterung. Hier in diesem Fall bedeutet transkribieren alte, schwer leserliche Schrift zu entziffern und in gut leserliche Schrift zu übertragen. In den meisten Fällen handelt es sich um mittelalterliche Handschriften, aber auch um Autographen, welches u. a. als eigenhändige Niederschrift eines Komponisten zu verstehen ist.
+Transkription hat verschiedene Ansätze zur Erläuterung. So kann darunter die Umschrift, die auf der Aussprache basiert, verstanden werden, 
+die mit Hilfe einer phonetisch definierten Lautschrift durchgeführt wird. Hier in diesem Fall bedeutet transkribieren alte, schwer leserliche Schrift zu entziffern und in gut leserliche Schrift zu übertragen. In den meisten Fällen handelt es sich um mittelalterliche Handschriften, aber auch um Autographen, welches u. a. als eigenhändige Niederschrift eines Komponisten zu verstehen ist.
 Die Übertragung kann durch einfaches "Abtippen" erfolgen oder durch automatisierte Texterkennung mittels OCR erfolgen.
 Weitere Informationen zum Thema finden Sie [hier](http://de.wikipedia.org/wiki/Transkription_%28Editionswissenschaft%29). (Wikipedia Beitrag: Transkription (Editionswissenschaft))
  
-
-
